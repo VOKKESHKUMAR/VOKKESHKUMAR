@@ -30,7 +30,7 @@ I'm a technology enthusiast passionate about programming, Artificial Intelligenc
 
 ## 🌐 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn:(https://www.linkedin.com/in/vokkeshkumar-a-9a7322442/)
 - GitHub: https://github.com/VOKKESHKUMAR
 
 ## 💡 My Philosophy
